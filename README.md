@@ -1,24 +1,33 @@
 # *module-1-challenge* (Horiseon Mock-up)
 
-## *Description*
+## **Description**
 
 This project contains a mock-up design for an online marketing firm's home page that specializes in social media consultations and management. The mock-up home page was intended to teach students the importance of changing non-semantic HTML elements and making the readibility of the index more accessible to viewers. 
 
-## *Installation*
+## **Installation**
 
-https://github.com/jakelipscomb/module-1-challenge.git
+https://jakelipscomb.github.io/module-1-challenge/
 
 ![Horiseon Mock-Up Home Page](assets/images/horiseonhomepage.png)
 
-## *Usage*
+## **Technologies**
+Project is created with:
+* Visual Studio Code version: 1.77.3
+	
+## **Setup**
+To run this project, clone it locally using bash:
 
-By examining the elements within the HTML and CSS of this module challenge, you can get a greater understanding for the importance of semantic elements within a given file.
+```
+$ bash
+$ git clone https://github.com/jakelipscomb/module-1-challenge.git
+```
 
-## *Credits*
+## **Credits**
+Coursework provided by The University of Texas at Austin Center for Professional Education Coding Boot Camp
 
-N/A
+https://www.edx.org/course/the-coding-boot-camp-at-ut-austin#24775ad0-27b4-53da-943a-30a2a394c452
 
-## *License*
+## **License**
 
 MIT License
 
