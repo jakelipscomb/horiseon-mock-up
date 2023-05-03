@@ -1,16 +1,18 @@
-# *module-1-challenge*
+# *module-1-challenge* (Horiseon Mock-up)
 
 ## *Description*
 
-This project contains a mock-up design for a home page for an online marketing firm that specializes in social media consultations and management. The mock-up home page was intended to teach students the importance of changing non-semantic HTML elements and making the readibility of the index more accessible to viewers. 
+This project contains a mock-up design for an online marketing firm's home page that specializes in social media consultations and management. The mock-up home page was intended to teach students the importance of changing non-semantic HTML elements and making the readibility of the index more accessible to viewers. 
 
 ## *Installation*
 
-N/A
+https://github.com/jakelipscomb/module-1-challenge.git
+
+![Horiseon Mock-Up Home Page](assets/images/horiseonhomepage.png)
 
 ## *Usage*
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+By examining the elements within the HTML and CSS of this module challenge, you can get a greater understanding for the importance of semantic elements within a given file.
 
 ## *Credits*
 
@@ -41,4 +43,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-<!-- Need a Description, a Link to the Website Preview, a screenshot, and credits+license for flair -->
